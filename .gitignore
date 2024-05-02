@@ -4,6 +4,7 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
+.idea
 .idea/modules.xml
 .idea/jarRepositories.xml
 .idea/compiler.xml
@@ -36,42 +37,3 @@ build/
 
 ### Mac OS ###
 .DS_Store
-/.idea/codeStyles/codeStyleConfig.xml
-/.idea/codeStyles/Project.xml
-/.idea/sonarlint/issuestore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b
-/.idea/sonarlint/issuestore/2/2/2210bb65c4ace50ac81d540fa7cbed67873d3fbe
-/.idea/sonarlint/issuestore/3/2/32eb6cc3e82225789f926153cb17661db7c18548
-/.idea/sonarlint/issuestore/3/d/3dccc1cdce16f53c689411e238e7088d1a9dbf26
-/.idea/sonarlint/issuestore/3/e/3e0e50c472a466411601141a4397b63cab42b61b
-/.idea/sonarlint/issuestore/4/4/442065e7836a309c0160bfdc75d33f84830f4c7d
-/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec
-/.idea/sonarlint/issuestore/5/4/54ebcde9d23e6dfb2cf64d28515534b17e0ccead
-/.idea/sonarlint/issuestore/5/a/5a4f31c95bbac7dba118a560cc4970e9b8931c65
-/.idea/sonarlint/issuestore/8/1/810cb4adf64982e7047456ca704e67ff12a8d3c3
-/.idea/sonarlint/issuestore/9/9/997157a1d022c1d21ccc656df493b7c4e7817c15
-/.idea/sonarlint/issuestore/9/b/9bf58547886661f94f7c86f954caee41fbbd30a9
-/.idea/sonarlint/issuestore/e/4/e4d9c7058f8a8b10e48b596bc4b03d6c9be833c9
-/.idea/sonarlint/issuestore/f/0/f07667aa75a9b4cb5f90e18493959e42c1e50c85
-/.idea/sonarlint/issuestore/f/c/fc21fd10b9be6221c900b01399dc11c682f9104b
-/.idea/sonarlint/issuestore/index.pb
-/.idea/sonarlint/securityhotspotstore/0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b
-/.idea/sonarlint/securityhotspotstore/2/2/2210bb65c4ace50ac81d540fa7cbed67873d3fbe
-/.idea/sonarlint/securityhotspotstore/3/2/32eb6cc3e82225789f926153cb17661db7c18548
-/.idea/sonarlint/securityhotspotstore/3/d/3dccc1cdce16f53c689411e238e7088d1a9dbf26
-/.idea/sonarlint/securityhotspotstore/3/e/3e0e50c472a466411601141a4397b63cab42b61b
-/.idea/sonarlint/securityhotspotstore/4/4/442065e7836a309c0160bfdc75d33f84830f4c7d
-/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec
-/.idea/sonarlint/securityhotspotstore/5/4/54ebcde9d23e6dfb2cf64d28515534b17e0ccead
-/.idea/sonarlint/securityhotspotstore/5/a/5a4f31c95bbac7dba118a560cc4970e9b8931c65
-/.idea/sonarlint/securityhotspotstore/8/1/810cb4adf64982e7047456ca704e67ff12a8d3c3
-/.idea/sonarlint/securityhotspotstore/9/9/997157a1d022c1d21ccc656df493b7c4e7817c15
-/.idea/sonarlint/securityhotspotstore/9/b/9bf58547886661f94f7c86f954caee41fbbd30a9
-/.idea/sonarlint/securityhotspotstore/e/4/e4d9c7058f8a8b10e48b596bc4b03d6c9be833c9
-/.idea/sonarlint/securityhotspotstore/f/0/f07667aa75a9b4cb5f90e18493959e42c1e50c85
-/.idea/sonarlint/securityhotspotstore/f/c/fc21fd10b9be6221c900b01399dc11c682f9104b
-/.idea/sonarlint/securityhotspotstore/index.pb
-/.idea/.gitignore
-/.idea/encodings.xml
-/.idea/jpa-buddy.xml
-/.idea/misc.xml
-/.idea/uiDesigner.xml
